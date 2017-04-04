@@ -1,5 +1,3 @@
-//Davis Smith
-//CPSC 246
 /*This program simulates the operation of a vending machine. Inventory is read
     in from a text file. Users can navigate the options with a keypad. Input must 
     meet constraints set by the program.*/
