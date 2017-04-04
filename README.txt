@@ -21,7 +21,7 @@ Vending machine begins with one roll of quarters ($10), one roll of dimes ($5), 
 	prompt, then this feature will be unavailable. ***
 
 ***Inventory files to be extracted must be located in the current directory and must meet strict
-	limits set by the program. Failure to meet these limits will result in an ‘Error reading file’ 	message.***
+	limits set by the program. Failure to meet these limits will result in an ‘Error reading file’ message.***
 
 
 
