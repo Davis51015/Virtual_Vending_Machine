@@ -1,3 +1,10 @@
+Virtual Vending Machine
+<br>
+
+![alt text](VirtualMachine.jpg)
+
+
+<br>
 Boundaries:
 
 Inventory input file delimited by commas with ending delimiter being a newline
